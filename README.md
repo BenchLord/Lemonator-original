@@ -1,4 +1,6 @@
-Uber-Lemon
+Lemonator
 ==========
 
-so much lemon, soooooo much lemon!
+* Original version of Lemonator
+* Find the latest version --> @programQ
+* The reason for this version being here is for my portfolio
