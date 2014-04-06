@@ -1,6 +1,4 @@
-Lemonator
+!(https://github.com/BenchLord/Lemonator-original/blob/master/logo.png)
 ==========
-
 * Original version of Lemonator
-* Find the latest version --> @programQ
-* The reason for this version being here is for my portfolio
+* Only here for my portfolio, find the latest version --> @ProgramQ
